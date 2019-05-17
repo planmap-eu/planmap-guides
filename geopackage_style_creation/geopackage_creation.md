@@ -4,7 +4,7 @@
 •	Go to “Processing”->”processing tools” and in the search bar look for “geopackage”
 •	Double click the "Package layers” tools
 
-![Package1](./images/package1.png =200x)
+![Package1](./images/package1.png  | width=200)
 
 •	Select all the shapefiles you want in the geopackage and choose an output folder
 •	Once saved, open a new Qgis and drag the .gpckg file. It loads with a random symbology and no sorting within the same shapefile
